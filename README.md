@@ -6,3 +6,5 @@ Let's say the project "owner" is working on issue01. They should work the rebase
 The colleague working on issue02 should do the same after forking, then cloning the project. Then they shoudl check out a branch to do their work on issue02
 
 When work on issue02 is done, there should be a pull request sent from the issue02 worker. 
+
+To experience a merge conflict, the owner could edit the issue02 file or the collaborator could edit issue 01 file before the pull request. 
